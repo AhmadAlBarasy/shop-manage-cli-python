@@ -4,7 +4,7 @@ you can add,remove and edit products in your database,create reciepts and delete
 ## **Installation**
 * Install the **dependencies** (python modules) mentioned in the requirments.txt file.
 
-* Create a database using postgres using the following command:
+* Create a PostgreSQL database using postgres using the following command:
  ```
     create database your-database-name;
   ```
