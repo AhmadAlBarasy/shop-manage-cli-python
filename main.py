@@ -45,7 +45,7 @@ def startProgram() -> None:
                 closeConnection()
                 break
             case _:
-                print("Invalid number...you managed to enter it...somehow :)")
+                print("Invalid number...you managed to enter it...somehow :-)")
 
 
 def validateChoice(userChoice: str) ->bool:
