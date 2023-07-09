@@ -2,7 +2,7 @@
 Simple CLI shop management application using Python and PostgreSQL
 you can add,remove and edit products in your database,create reciepts and delete them,display current stock in your shop and print reciepts using their ID.
 ## **Installation**
-* Install the **dependencies** (python modules) mentioned in the [requirments.txt](https://github.com/AhmadAlBarasy/shop-manage-cli-python/blob/main/requirments.txt) file.
+* Install the **dependencies** (python modules) mentioned in the [requirments.txt](https://github.com/AhmadAlBarasy/shop-manage-cli-python/blob/main/requirements.txt) file.
 
 * Create a PostgreSQL database using postgres using the following command:
  ```
