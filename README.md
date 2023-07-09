@@ -7,7 +7,7 @@ you can add,remove and edit products in your database,create reciepts and delete
 pip install -r requirements.txt
 ```
 
-* Create a PostgreSQL database using postgres using the following command:
+* Create a PostgreSQL database using sql shell or any database tool by executing the following command:
  ```
     create database your-database-name;
   ```
